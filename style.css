@@ -108,7 +108,7 @@ a.btn:hover {
 /* HERO */
 .hero {
     overflow: hidden;
-    background: url('/images/hero-banner.png')center no-repeat;
+    background: url('images/hero-banner.png')center no-repeat;
     background-size: cover;
     min-height: 750px;
     display: flex;
@@ -526,7 +526,7 @@ section.section-dark.certificate-section {
 /* instructor */
 
 .logoBg {
-    background: url(/images/logo-bg.png) left center no-repeat;
+    background: url(images/logo-bg.png) left center no-repeat;
     background-size: 839px auto;
     padding: 80px 0;
 }
@@ -677,7 +677,7 @@ button.accordion-button {
 
 /* Custom + icon */
 .custom-accordion .accordion-button::before {
-    content: url('/images/Container.png');
+    content: url('images/Container.png');
     font-size: 20px;
     font-weight: 600;
     margin-right: 12px;
@@ -704,7 +704,7 @@ button.accordion-button {
 
 /* CTA */
 .cta {
-    background: url('/images/cta-bg.png') center/cover no-repeat;
+    background: url('images/cta-bg.png') center/cover no-repeat;
     padding: 100px 0;
     text-align: center;
     color: #fff;
