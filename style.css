@@ -1089,7 +1089,11 @@ img {
   }
 
   .timeline-item::after {
-    left: 0;
+    left: 3px;
+  }
+
+  .timeline-item.right::after {
+    left: 3px;
   }
 
   /* BENEFITS */
