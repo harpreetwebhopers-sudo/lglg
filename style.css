@@ -1170,7 +1170,7 @@ img {
   /* TIMELINE */
 
   .timeline-item.left {
-    padding-left: 0px;
+    padding-right: 0px;
   }
 
   .lesson-card {
