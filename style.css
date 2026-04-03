@@ -1168,6 +1168,11 @@ img {
   }
 
   /* TIMELINE */
+
+  .timeline-item.left {
+    padding-left: 0px;
+  }
+
   .lesson-card {
     padding: 15px;
   }
