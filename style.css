@@ -294,11 +294,21 @@ p.text-muted {
     background: linear-gradient(to bottom, #DD682F, #DD682F, #DD682F);
 }
 
-.timeline-item {
+/* .timeline-item {
     width: 50%;
     position: relative;
     margin-bottom: 45px;
+} */
+
+.timeline-item {
+    width: 50%;
+     position: sticky;
+    top: 50px;
+    margin-bottom: 45px;
+    z-index: 2;
 }
+
+   
 
 .timeline-item.left {
     left: 0;
